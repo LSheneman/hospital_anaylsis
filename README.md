@@ -6,3 +6,5 @@ In this exercise, you will:
 -- construct a statistically sound analysis and make recommendations of your own
 
 Data source: https://data.medicare.gov/Hospital-Compare/Hospital-Readmission-Reduction/9n3s-kdb3
+
+Please see hospital_anaylsis.ipynb to get started.
